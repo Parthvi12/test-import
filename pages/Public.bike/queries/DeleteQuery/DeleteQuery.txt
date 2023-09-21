@@ -1,2 +1,0 @@
-DELETE FROM public."bike"
-  WHERE "rating" = {{data_table.triggeredRow.rating}};
