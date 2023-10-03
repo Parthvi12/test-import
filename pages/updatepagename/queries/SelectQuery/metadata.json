@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Configs",
+    "pageId": "updatepagename",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -42,7 +42,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Configs_SelectQuery",
+  "id": "updatepagename_SelectQuery",
   "deleted": false,
   "gitSyncId": "6493e272178f5c3674f78732_649c06c8fae9a530fc190865"
 }
