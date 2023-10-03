@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Configs",
-    "slug": "configs",
+    "name": "updatedname",
+    "slug": "updatedname",
     "layouts": [
       {
         "viewMode": false,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Configs_SelectQuery",
+              "id": "updatedname_SelectQuery",
               "name": "SelectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -46,14 +46,15 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Configs",
+        "id": "updatedname",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "6493e272178f5c3674f78732_649c06c7fae9a530fc190863"
