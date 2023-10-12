@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 80,
+          "version": 87,
           "minHeight": 890,
           "parentColumnSpace": 1,
           "dynamicTriggerPathList": [],
@@ -34,8 +34,8 @@
               "confirmBeforeExecute": false,
               "pluginType": "SAAS",
               "jsonPathKeys": [
-                "data_table.pageSize",
-                "(data_table.pageNo - 1) * data_table.pageSize"
+                "(data_table.pageNo - 1) * data_table.pageSize",
+                "data_table.pageSize"
               ],
               "timeoutInMillisecond": 10000
             }
