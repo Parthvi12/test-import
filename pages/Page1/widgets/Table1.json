@@ -361,6 +361,7 @@
     "rightColumn": 64,
     "textSize": "0.875rem",
     "widgetId": "377j710ebu",
+    "enableServerSideFiltering": false,
     "minWidth": 450,
     "tableData": "{{Api1.data.users}}",
     "label": "Data",
